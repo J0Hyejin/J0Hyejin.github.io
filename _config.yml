@@ -1,5 +1,5 @@
 # Site settings
-title: 조혜진 JoHyejin
+title: 조혜진
 email: jo0920hyejin@gmail.com
 url: https://J0Hyejin.github.io
 description: "설명란 테스트 메세지"
@@ -58,7 +58,9 @@ address:
 #  - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: '<a href="http://startbootstrap.com">Freelancer</a> 테마를 이용하여 만들었습니다.'
+credits: 
+  - line: '<a href="http://startbootstrap.com">Freelancer</a> 테마를 이용하여'
+  - line: ' 만들었습니다.'
 
 # Build settings
 markdown: kramdown

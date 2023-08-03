@@ -3,6 +3,14 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+ @charset "utf-8";
+ @font-face {
+     font-family: 'HangeulNuri-Bold';
+     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_three@1.0/HangeulNuri-Bold.woff') format('woff');
+     font-weight: normal;
+     font-style: normal;
+ }
+
 
 body {
     overflow-x: hidden;
